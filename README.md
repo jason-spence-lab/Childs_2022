@@ -12,12 +12,12 @@ To run this project, install Scanpy (https://scanpy.readthedocs.io/en/stable/). 
 To understand the single cell analysis tools, check out the Scanpy and Seurat tutorials
 
 ## Pipeline Created by: 
-Joshua Wu wujos@med.umich.edu
+Joshua Wu wujos@med.umich.edu  
 Mike Czerwinski czerwmj@med.umich.edu
 
 ## For Questions on Code Pertaining to This Manuscript
 Charlie Childs cjchilds@umich.edu
 
 ## Acknowledgments
-Jason Spence Lab for support from our colleagues
+Jason Spence Lab for support from our colleagues   
 Theis Lab and Satija Lab for their work on modern single cell analysis techniques
