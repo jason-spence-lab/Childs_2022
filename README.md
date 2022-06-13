@@ -5,6 +5,9 @@ Manuscript can be found here: https://www.biorxiv.org/content/10.1101/2022.06.12
 
 ## Abstract
 Epithelial organoids derived from intestinal tissue, also referred to as mini-intestines or mini-guts, recapitulate many aspects of the organ in vitro and can be used for biological discovery, personalized medicine, and drug development. Murine intestinal organoids represent a homeostatic system that balances stem cell maintenance within a crypt-like compartment and differentiation within a villus-like compartment. However, this homeostatic balance and spatial organization has not been achieved with human intestinal organoids. Here, we leverage single cell RNA-seq data (scRNA-seq) and high-resolution imaging to interrogate the developing human intestinal stem cell niche. We identified an EGF-family member, EPIREGULIN (EREG), as uniquely expressed in the developing crypt, and found that EREG can take the place of EGF as an in vitro niche factor. Unlike EGF, which leads to growth of thin-walled cystic organoids, EREG-organoids are spatially resolved into budded and proliferative crypt domains and a differentiated villus-like central lumen. Transcriptomics and epigenomics showed that EREG-organoids are globally similar to the native intestine while EGF-organoids have an altered chromatin landscape, downregulate the master intestinal transcription factor CDX2 and ectopically express stomach genes.
+<p align="center">
+<img width="308" alt="EREGorganoid" src="https://user-images.githubusercontent.com/55200067/173452750-33f59291-4e88-43e2-9971-20c86046bcd3.png">
+</p>
 
 ## About
 Within each figure folder, the code used to create visualization found in that figure can be found. Analysis was done in either Python or R-studio mostly using the single cell RNA sequencing pipelines Scanpy (python) or Seurat (R). Major supporting packages include CellChat, scoreHIO, and Signac. 
