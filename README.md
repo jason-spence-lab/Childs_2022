@@ -27,7 +27,7 @@ Charlie Childs cjchilds@umich.edu
 Scanpy Pipeline Created By Joshua Wu and Mike Czerwinski 
 
 ## Acknowledgments
-Jason Spence Lab 
+Jason Spence Lab   
 Gray Camp Lab    
 Mike Verzi Lab  
 Theis Lab and Satija Lab for their work on modern single cell analysis techniques
