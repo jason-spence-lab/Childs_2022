@@ -1,5 +1,5 @@
 # Childs_2022
-This repository contains code for analyses as seen in "A Development-Inspired Niche for Homeostatic Human Mini-Intestines" - Charlie J. Childs et. al (2022).
+This repository contains code for analyses as seen in "EPIREGULIN creates a developmental niche for spatially organized human intestinal enteroids" - Charlie J. Childs et. al (2023) JCI Insights DOI:10.1172/jci.insight.165566.
 
 Manuscript pre-print can be found here: https://www.biorxiv.org/content/10.1101/2022.06.12.495827v2
 
